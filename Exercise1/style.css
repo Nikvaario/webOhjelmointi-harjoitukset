@@ -1,0 +1,27 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+}
+
+a:hover {
+    color: aqua;  
+    text-decoration: none;
+}
+
+img {
+    border-radius: 10px;
+    background-color: red;
+    padding: 20px
+}
+
+ul {
+    list-style-type: square;
+}
+
+tr:nth-child(even) {
+    color: moccasin;
+}
