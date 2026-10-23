@@ -1,0 +1,41 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 20px;
+    background-color: red;
+    margin: 20px;
+}
+
+.navLinkBox {
+    display: flex;
+    justify-content: flex-end;
+    gap: 50px;
+}
+
+.homeContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 300px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    text-align: center;
+}
+
+.prod {
+    width: 200px;
+    padding: 10px;
+    padding-bottom: 500px;
+    margin: 20px;
+    background-color: red;
+}
+
+li {
+    list-style-type: none;
+}
