@@ -1,16 +1,30 @@
+body {
+    background-color: #ffffed;
+    margin: 50px;
+    color: #023020;
+
+    font-family: "Cantarell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 nav {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 
-    padding: 20px;
-    background-color: red;
-    margin: 20px;
+    background-color: #596869;
+    color: #e6efe6
+}
+
+.bg {
+    background-color: #abd1b5;
 }
 
 .navLinkBox {
     display: flex;
-    justify-content: flex-end;
     gap: 50px;
+    padding-right: 50px;
 }
 
 .homeContent {
@@ -18,10 +32,14 @@ nav {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    margin: 300px;
 }
 
-.flex-container {
+.bannerText {
+    padding-right: 370px;
+    padding-left: 370px;
+}
+
+.prodFlexContainer {
     display: flex;
     justify-content: center;
     gap: 100px;
@@ -29,13 +47,37 @@ nav {
 }
 
 .prod {
-    width: 200px;
+    width: 250px;
     padding: 10px;
-    padding-bottom: 500px;
+    padding-bottom: 80px;
     margin: 20px;
-    background-color: red;
+    background-color: #79B791;
+}
+
+.desc {
+    text-align: left;
+    margin: 3px;
+}
+
+.contactFlexContainer {
+    display: flex;
+    justify-content: center;
+    gap: 500px;
+    text-align: left;
+    padding-top: 150px;
+    padding-bottom: 90px;
+    font-style: italic;
+}
+
+.marginAuto {
+    display: block;
+    margin: auto;
 }
 
 li {
     list-style-type: none;
+}
+
+a {
+    color: #e6efe6
 }
