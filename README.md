@@ -1,4 +1,4 @@
-# Ohjelmisto 2 - HTML harjoitukset
+# Ohjelmisto 2 - Web-kehitys
 
 **Niko Rahikainen**
 
