@@ -27,12 +27,25 @@ Tehdyt tehtävät (10/10):
 
 **Yhteensä 27p**
 
+Tehtävät tehty 4.11 aikana
+
 ### JS-moduuli 3
 
-[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~username/)
+[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~nikrah/JavaScript%20Module%203/)
 
-Tehdyt tehtävät (0/10):
+Tehdyt tehtävät (10/10):
 
-- 
+- Tehtävä 1: 2p
+- Tehtävä 2: 2p
+- Tehtävä 3: 2p
+- Tehtävä 4: 2p
+- Tehtävä 5: 2p
+- Tehtävä 6: 2p
+- Tehtävä 7: 2p
+- Tehtävä 8: 2p
+- Tehtävä 9: 3p
+- Tehtävä 10: 8p
 
-**Yhteensä 0p**
+**Yhteensä 27p**
+
+Tehtävät tehty 5.11 aikana
