@@ -10,7 +10,7 @@ Tein tehtävän 22.10
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulien 1 ja 2 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~username/)
+[Linkki JS-moduulien 1 ja 2 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~nikrah/JavaScript%20Modules%201+2/)
 
 Tehdyt tehtävät (10/10):
 
