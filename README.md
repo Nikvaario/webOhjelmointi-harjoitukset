@@ -49,3 +49,18 @@ Tehdyt tehtävät (10/10):
 **Yhteensä 27p**
 
 Tehtävät tehty 5.11 aikana
+
+### JS-moduuli 4
+
+[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~nikrah)
+
+Tehdyt tehtävät (6/11):
+
+- Tehtävä 1: 2p
+- Tehtävä 2: 2p
+- Tehtävä 3: 2p
+- Tehtävä 4: 2p
+- Tehtävä 5: 5p
+- Tehtävä 6: 1p
+
+**Yhteensä 14p**
