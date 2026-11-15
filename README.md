@@ -52,7 +52,7 @@ Tehtävät tehty 5.11 aikana
 
 ### JS-moduuli 4
 
-[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~nikrah)
+[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~nikrah/JavaScript%20Module%204/)
 
 Tehdyt tehtävät (6/11):
 
