@@ -64,3 +64,13 @@ Tehdyt tehtävät (6/11):
 - Tehtävä 6: 1p
 
 **Yhteensä 14p**
+
+### Python Flask Moduuli
+
+Linkki Flask moduuli kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~nikrah/Python%20Flask%20Module/)
+
+Tehdyt tehtävät (1/3)
+
+- Tehtävä 2: 10p
+
+**Yhteensä 10p**
